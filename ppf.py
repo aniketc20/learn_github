@@ -7,7 +7,8 @@ enter_years = int(input("years:"))
 interest = 0
 monthly_transfer = int(input("transfer each month:"))
 monthly_balance = year_opening_balance
-#interest_list = []
+interest_list = []
+empty_list = []
 for month in range(enter_years*12+1):
     if month%12==0:
         if month>=12:
