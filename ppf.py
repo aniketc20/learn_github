@@ -10,6 +10,7 @@ monthly_balance = year_opening_balance
 interest_list = []
 empty_list = []
 # change part 1
+# change part 2
 for month in range(enter_years*12+1):
     if month%12==0:
         if month>=12:
