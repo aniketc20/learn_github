@@ -1,3 +1,4 @@
+# edit 2
 year_opening_balance = 15020
 interest_rate = float(7.1/100)
 monthly_rate = float(interest_rate/12)
